@@ -1,0 +1,13 @@
+.map_container {
+    background-color: #D3D3D3; 
+    height: 700px;
+    width: 1000px;
+    display: flex; /* Enables flexbox */
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+}
+
+#main_map {
+    height: 97%;
+    width: 97%;
+}
